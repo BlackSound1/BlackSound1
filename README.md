@@ -1,13 +1,13 @@
 ### Hello
 
-I am a computer science student fro Montreal looking for an internship!
+I am a computer science student from Montreal looking for an internship!
 
 - I am very familair with:
     - Java
     - Python3
     - HTML
     - CSS
-    - Regular Expressions (ReGex)
+    - Regular Expressions (RegEx)
 - I am also familiar with:
     - JavaScript
     - PHP
