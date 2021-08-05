@@ -20,7 +20,7 @@ I am a computer science student from Montreal looking for an internship!
     - <img alt="lisp" width="20px" src="https://img.icons8.com/color/48/000000/lisp.png"/> Lisp
     - <img alt="ruby" width="20px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/> Ruby
     - <img alt="c" width="20px" src="https://img.icons8.com/color/48/000000/c-programming.png"/> C
-    - Prolog
+    - <img alt="js" width="20px" src="https://cdn.iconscout.com/icon/free/png-256/prolog-458170.png"/> Prolog
     - <img alt="mongo" width="20px" src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB
     - <img alt="react" width="20px" src="https://img.icons8.com/office/16/000000/react.png"/> React
 - Other technologies:
@@ -58,5 +58,3 @@ interface the frontend with the database
 
 - New Haven:
 > a full, text-based, adaptation of the “New Haven” board game in C++ (with CMake)
-
-[ruby]: 
