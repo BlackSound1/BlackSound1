@@ -3,36 +3,38 @@
 I am a computer science student from Montreal looking for an internship!
 
 - I am very familair with:
-    - Java
-    - Python3
-    - HTML
-    - CSS
-    - Regular Expressions (RegEx)
+    - <img alt="java" width="20px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> Java
+    - <img alt="python" width="20px" src="https://img.icons8.com/color/48/000000/python--v1.png"/> Python3
+    - <img alt="html" width="20px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
+    - <img alt="css" width="20px" src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
+    - <img alt="regex" width="20px" src="https://img.icons8.com/offices/30/000000/regex.png"/> Regular Expressions (RegEx)
 - I am also familiar with:
-    - JavaScript
-    - PHP
-    - C++
-    - C#
-    - SQL (MySQL)
-    - UML
+    - <img alt="js" width="20px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> JavaScript
+    - <img alt="php" width="20px" src="https://img.icons8.com/officel/16/000000/php-logo.png"/> PHP
+    - <img alt="c++" width="20px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++
+    - <img alt="c#" width="20px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> C#
+    - <img alt="mysql" width="20px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> SQL (MySQL)
+    - <img alt="uml" width="20px" src="https://img.icons8.com/ios/50/000000/flow-chart.png"/> UML
 - I have some exposure to:
-    - Kotlin
-    - Lisp
-    - Ruby
-    - C
+    - <img alt="kotlin" width="20px" src="https://img.icons8.com/color/48/000000/kotlin.png"/> Kotlin
+    - <img alt="lisp" width="20px" src="https://img.icons8.com/color/48/000000/lisp.png"/> Lisp
+    - <img alt="ruby" width="20px" src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/> Ruby
+    - <img alt="c" width="20px" src="https://img.icons8.com/color/48/000000/c-programming.png"/> C
     - Prolog
-    - MongoDB
-    - React
+    - <img alt="mongo" width="20px" src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB
+    - <img alt="react" width="20px" src="https://img.icons8.com/office/16/000000/react.png"/> React
 - Other technologies:
-    - Microsoft Office
-    - JetBrains
-    - Eclipse
-    - Atom
-    - Visual Studio / VSCode
-    - XAMPP
-    - Some familiarity with Mac/ Linux
-    - LaTeX
-    - Git
+    - <img alt="ms" width="20px" src="https://img.icons8.com/color/48/000000/microsoft.png"/> Microsoft Office
+    - <img alt="intellij" width="20px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> JetBrains
+    - <img alt="eclipse" width="20px" src="https://img.icons8.com/officel/16/000000/java-eclipse.png"/> Eclipse
+    - <img alt="atom" width="20px" src="https://img.icons8.com/ios/50/000000/atom-editor.png"/> Atom
+    - <img alt="vs" width="20px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/> Visual Studio / <img alt="vscode" width="20px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> VSCode
+    - <img alt="uml" width="20px" src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png"/> XAMPP
+- Some familiarity with  <img alt="mac" width="20px" src="https://img.icons8.com/ios-glyphs/30/000000/mac-client.png"/> Mac/ <img alt="mac" width="20px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> Linux
+    - <img alt="latex" width="20px" src="https://img.icons8.com/color/48/000000/latex.png"/> LaTeX
+    - <img alt="git" width="20px" src="https://img.icons8.com/color/50/000000/git.png"/> Git
+
+---
 
 Some of my projects include:
 
@@ -56,3 +58,5 @@ interface the frontend with the database
 
 - New Haven:
 > a full, text-based, adaptation of the “New Haven” board game in C++ (with CMake)
+
+[ruby]: 
