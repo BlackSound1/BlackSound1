@@ -30,7 +30,7 @@ I am a computer science student from Montreal looking for an internship!
     - <img alt="atom" width="20px" src="https://img.icons8.com/ios/50/000000/atom-editor.png"/> Atom
     - <img alt="vs" width="20px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/> Visual Studio / <img alt="vscode" width="20px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> VSCode
     - <img alt="uml" width="20px" src="https://cdn2.iconfinder.com/data/icons/pack1-baco-flurry-icons-style/512/XAMPP.png"/> XAMPP
-- Some familiarity with  <img alt="mac" width="20px" src="https://img.icons8.com/ios-glyphs/30/000000/mac-client.png"/> Mac/ <img alt="mac" width="20px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> Linux
+    - Some familiarity with  <img alt="mac" width="20px" src="https://img.icons8.com/ios-glyphs/30/000000/mac-client.png"/> Mac/ <img alt="mac" width="20px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> Linux
     - <img alt="latex" width="20px" src="https://img.icons8.com/color/48/000000/latex.png"/> LaTeX
     - <img alt="git" width="20px" src="https://img.icons8.com/color/50/000000/git.png"/> Git
 
