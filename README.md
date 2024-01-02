@@ -10,7 +10,6 @@ AI-driven software solutions to interesting supply-chain problems.
   - <img alt="js" width="20px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> JavaScript
   - <img alt="html" width="20px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
   - <img alt="css" width="20px" src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
-  - <img alt="linux" width="20px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/> Linux
   - <img alt="gitlab" width="20px" src="https://img.icons8.com/color/48/000000/gitlab.png"/> GitLab
   - <img alt="git" width="20px" src="https://img.icons8.com/color/50/000000/git.png"/> Git
   - <img alt="jira" width="20px" src="https://img.icons8.com/color/48/000000/jira.png"/> Jira
