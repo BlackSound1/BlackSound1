@@ -14,7 +14,6 @@ AI-driven software solutions to interesting supply-chain problems.
   - <img alt="gitlab" width="20px" src="https://img.icons8.com/color/48/000000/gitlab.png"/> GitLab
   - <img alt="git" width="20px" src="https://img.icons8.com/color/50/000000/git.png"/> Git
   - <img alt="jira" width="20px" src="https://img.icons8.com/color/48/000000/jira.png"/> Jira
-  - <img alt="pycharm" width="20px" src="https://img.icons8.com/color/48/000000/pycharm.png"/> PyCharm
 
 - I am also quite familiar with:
   - <img alt="c++" width="20px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++
