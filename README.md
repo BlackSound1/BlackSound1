@@ -2,8 +2,8 @@
 
 I am a computer science student from Montreal.
 
-I've been working for a large software company since September 2021 using Python and web technologies to create cutting-edge, 
-AI-driven software solutions to interesting supply-chain problems.
+I worked for a large software company from September 2021 to April 2023 using Python and web technologies to create cutting-edge, 
+AI-driven software solutions to interesting supply chain problems.
 
 - I regularly use:
   - <img alt="python" width="20px" src="https://img.icons8.com/color/48/000000/python--v1.png"/> Python3
@@ -31,18 +31,18 @@ AI-driven software solutions to interesting supply-chain problems.
 A sample of some of my projects include:
 
 - Machine Learning Sentiment Analysis
-> Reads a text file of product reviews and uses two machine learning algorithms (the Naïve Bayes Classifier and the Decision
+  > Reads a text file of product reviews and uses two machine learning algorithms (the Naïve Bayes Classifier and the Decision
 Tree Classifier) to analyze the overall sentiment of each review and classify new unseen reviews with positive or negative sentiment.
 Written in Python 3.
 
 - Context Switching  Simulation in Java
-> Simulates process switching by using different algorithms: Fist-Come-First-Served, Round-Robin, Shortest-Job-First, and Shortest-Remaining-Time-First
+  > Simulates process switching by using different algorithms: Fist-Come-First-Served, Round-Robin, Shortest-Job-First, and Shortest-Remaining-Time-First
 
 I have some projects from school that exist only as private repositories. I am prepared to talk about these in an interview only. These include:
 
 - CondoManager:
-> A full-stack website with accompanying database. A social-media-style site for condo owners. 
+  > A full-stack website with accompanying database. A social-media-style site for condo owners. 
 Frontend written in Angular, database is MySQL. Uses a custom RESTful API written in PHP to interface the frontend with the database
 
 - New Haven:
-> A full, text-based, adaptation of the “New Haven” board game in C++ (with CMake)
+  > A full, text-based, adaptation of the “New Haven” board game in C++ (with CMake)
