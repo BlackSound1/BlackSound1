@@ -1,6 +1,6 @@
 ### Hello
 
-I am a computer science student from Montreal.
+I am a recent computer science graduate.
 
 I worked for a large software company from September 2021 to April 2023 using Python and web technologies to create cutting-edge, 
 AI-driven software solutions to interesting supply chain problems.
