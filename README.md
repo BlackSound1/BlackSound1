@@ -15,6 +15,7 @@ AI-driven software solutions to interesting supply chain problems.
   - <img alt="jira" width="20px" src="https://img.icons8.com/color/48/000000/jira.png"/> Jira
 
 - I am also quite familiar with:
+  - <img alt="golang" width="20px" src="https://img.icons8.com/color/48/golang.png"/> Go
   - <img alt="c++" width="20px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++
   - <img alt="java" width="20px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> Java
   - <img alt="regex" width="20px" src="https://img.icons8.com/offices/30/000000/regex.png"/> Regular Expressions (RegEx)
@@ -46,3 +47,7 @@ Frontend written in Angular, database is MySQL. Uses a custom RESTful API writte
 
 - New Haven:
   > A full, text-based, adaptation of the “New Haven” board game in C++ (with CMake)
+
+---
+
+![BlackSound1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackSound1&theme=default&show_icons=true&hide_border=true&layout=compact&hide=Jupyter%20Notebook&langs_count=8)
