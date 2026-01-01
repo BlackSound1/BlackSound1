@@ -10,7 +10,7 @@ AI-driven software solutions to supply chain problems.
 - I'm very familiar with:
   - <img alt="python" width="20px" src="https://img.icons8.com/color/48/000000/python--v1.png"/> Python
   - <img alt="c++" width="20px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++
-  - <img alt="js" width="20px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> JavaScript
+  - <img alt="js" width="20px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> JavaScript / <img alt="ts" width="20px" src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript
   - <img alt="html" width="20px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
   - <img alt="css" width="20px" src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
   - <img alt="sql" width="20px" src="https://img.icons8.com/color/50/000000/sql.png"/> SQL
