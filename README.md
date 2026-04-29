@@ -1,31 +1,23 @@
-### Hello
+# Hello
 
 I am software developer from Montreal looking for a new opportunity!
 
-Previously, I worked as a software engineer for an international company, building the next generation of their realtime captioning solution.
+Previously, I worked as a software engineer for Verbit, building the next generation of their realtime captioning infrastructure using C++ and Python.
 
-Before that, I worked for a large software company using Python and web technologies to create cutting-edge, 
+Before that, I worked for Tecsys using Python and web technologies to create cutting-edge,
 AI-driven software solutions to supply chain problems.
 
-- I'm very familiar with:
-  - <img alt="python" width="20px" src="https://img.icons8.com/color/48/000000/python--v1.png"/> Python
-  - <img alt="c++" width="20px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> C++
-  - <img alt="js" width="20px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> JavaScript / <img alt="ts" width="20px" src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript
-  - <img alt="html" width="20px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML
-  - <img alt="css" width="20px" src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
-  - <img alt="sql" width="20px" src="https://img.icons8.com/color/50/000000/sql.png"/> SQL
-  - <img alt="github" width="20px" src="https://img.icons8.com/color/48/000000/github.png"/> GitHub / <img alt="gitlab" width="20px" src="https://img.icons8.com/color/48/000000/gitlab.png"/> GitLab
-  - <img alt="git" width="20px" src="https://img.icons8.com/color/50/000000/git.png"/> Git
-  - <img alt="jira" width="20px" src="https://img.icons8.com/color/48/000000/jira.png"/> Jira
+## I'm very familiar with
 
-- I am also quite familiar with:
-  - <img alt="golang" width="20px" src="https://img.icons8.com/color/48/golang.png"/> Go
-  - <img alt="java" width="20px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> Java
+[![Very Familiar](https://skillicons.dev/icons?perline=5&i=python,cpp,js,ts,html,css,git,github,gitlab,react,nextjs,fastapi,flask,tailwind,mysql,postman,docker,bootstrap,nodejs)](https://skillicons.dev)
 
-- I have also used:
-  - <img alt="c#" width="20px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> C#
-  - <img alt="php" width="20px" src="https://img.icons8.com/officel/16/000000/php-logo.png"/> PHP
-  - <img alt="latex" width="20px" src="https://img.icons8.com/color/48/000000/latex.png"/> LaTeX
+## I am also quite familiar with
+
+[![Familiar](https://skillicons.dev/icons?perline=5&i=go,java,postgresql,aws,redis,sqlite,jquery)](https://skillicons.dev)
+
+## I also use
+
+[![Also](https://skillicons.dev/icons?perline=5&i=latex,bash)](https://skillicons.dev)
 
 ---
 
