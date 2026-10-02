@@ -2,10 +2,9 @@
 
 I am software developer from Montreal looking for a new opportunity!
 
-Previously, I worked as a software engineer for Verbit, building the next generation of their realtime captioning infrastructure using C++ and Python.
+Previously, I worked as a software engineer for Verbit, building the next generation of North America's largest realtime captioning and subtitling infrastructure using C++ and Python.
 
-Before that, I worked for Tecsys using Python and web technologies to create cutting-edge,
-AI-driven software solutions to supply chain problems.
+Before that, I worked for Tecsys using Python and web technologies to create cutting-edge, AI-driven software solutions to supply chain problems.
 
 ## I'm very familiar with
 
